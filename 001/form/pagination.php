@@ -80,7 +80,10 @@
     <a href="pagination.php?page=10">10</a>
     <a href="#forward">Next</a>
 </div>
-    <p class="result">bạn đang ở trang thứ 4</p>
+    <?php
+    $page = (isset($_GET["page"])==true) ? $_GET["page"] : 0;
+    ?>
+    <p class="result">bạn đang ở trang thứ <?php echo $page; ?></p>
 </div>
 </body>
 </html>
