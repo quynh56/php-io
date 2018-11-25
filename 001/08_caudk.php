@@ -29,7 +29,7 @@ $mon = "";
     </form>
     <div class="result">
         <img src="image/bd.jpg" alt="cung bạch dương">
-        <p>cung bạch dương <span>()Aries 22/03- 20/04</span></p>
+        <p>cung bạch dương <span>(Aries 22/03- 20/04)</span></p>
     </div>
 </div>
 </body>

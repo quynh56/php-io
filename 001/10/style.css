@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding:0;
+}
+.content{
+    margin:20px auto;
+    width:600px;
+    border:1px solid #999;
+    padding:10px;
+    background:url("images.jpg") no-repeat;
+}
+.content h1{
+    color:pink;
+    text-align:center;
+    padding-left:50px
+}
+.content ul{
+    margin:30px 0 0 250px;
+}
+.content ul li{
+    margin-top: 5px;
+    list-style:decimal inside;
+}
+.content2{
+    margin:20px auto;
+    width:800px;
+    border:1px solid #999;
+    padding:10px;
+}
+.content2 h1{
+    color:pink;
+    text-align:center;
+    padding-left:50px
+}
+.content2 ul{
+    margin:30px;
+}
+.content2 ul li{
+    margin-top: 5px;
+    display:inline-block;
+    margin-left:30px;
+}
+.content2 ul li a{
+    display:inline-block;
+
+}
+.content2 div .result{
+margin-left :300px
+}
+
+
+.content3 {
+    border:1px solid #999;
+    margin:20px auto;
+    width:380px;
+
+}
+.content3 h1{
+    color:pink;
+    text-align:center;
+}
+.content3 .image{
+    margin: 0;
+    text-align:center
+}
+.content3 .image img{
+    margin:10px 10px;
+    display:block;
+    width: 300px;
+}
+.content3 .image a{
+   display:inline-block;
+    background:#686f97;
+    padding:3px 10px;
+    margin: 10px 0;
+    text-decoration:none;
+}
+.content3 .image a:hover{
+    color: yellow;
+}

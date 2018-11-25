@@ -33,3 +33,21 @@
     font-size:20px;
     text-align:center;
 }
+.content div.result {
+    margin-left:50px;
+}
+.content div.result img{
+    width:100px;
+    height:100px;
+    overflow:hidden;
+    float:left;
+}
+.content div.result p{
+   text-align:justify;
+    font-size: 22px;
+    height:100px;
+    line-height:200px;
+}
+.content div.result p span{
+    font-style:italic;
+}
