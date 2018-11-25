@@ -78,3 +78,31 @@ margin-left :300px
 .content3 .image a:hover{
     color: yellow;
 }
+.content4 {
+    border:1px solid #999;
+    margin:20px auto;
+    width:380px;
+
+}
+.content4 h1{
+    color:pink;
+    text-align:center;
+}
+.content4 div result{
+    margin-left:320px;
+}
+.content4 .question{
+    margin-top:20px;
+    text-align:center;
+}
+.content4 .question p{
+    margin-top:5px;
+}
+.content4 .question p:last-child{
+    text-align:right;
+    font-style:italic;
+    margin-top:20px;
+}
+.content4 .answer p{
+    font-weight:bold;
+}
