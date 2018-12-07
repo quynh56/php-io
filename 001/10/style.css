@@ -88,7 +88,7 @@ margin-left :300px
     color:pink;
     text-align:center;
 }
-.content4 div result{
+.content4 div .result{
     margin-left:320px;
 }
 .content4 .question{
@@ -105,4 +105,61 @@ margin-left :300px
 }
 .content4 .answer p{
     font-weight:bold;
+}
+.content5{
+    border:1px solid #999;
+    width:600px;
+    float:right;
+    margin:10px 500px;
+}
+.content5 .info img{
+    width:200px;
+    height:200px;
+    padding:10px;
+    float:left;
+}
+.content5 .info h1{
+    float:left;
+    color:red;
+    text-align:center;
+    padding:30px 45px;
+}
+.content5 .info form  p{
+  padding-bottom:13px;
+}
+.content5 .info form input{
+    padding:8px;
+    margin-bottom: 35px;
+}
+.content5 .info form input[type="text"]{
+    width:200px;
+}
+.content5 .result{
+    margin-top:10px;
+    line-height:25px;
+}
+.content5 .result .normal p .col1{
+   float:left;
+    width:200px;
+    padding-left:10px;
+    font-weight:bold;
+}
+.content5 .result .normal p .col2{
+    float:left;
+    text-align:center;
+    width:300px;
+    font-weight:bold;
+}
+.content5 .result .normal p .col3 {
+   float:right;
+    padding-right:10px;
+    font-weight:bold;
+}
+.content5 .result .total {
+     float:right;
+    font-size:17px;
+    font-weight:bold;
+    color:blue;
+    padding-top:10px;
+    padding-right:10px;
 }
